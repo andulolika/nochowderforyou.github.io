@@ -33,29 +33,25 @@ CLAMS is free and open source software that has been deemed safe and secure by t
 
 ---
 
-##<i class="fa fa-windows fa-5x"></i> &nbsp;&nbsp;Windows 1.4.13
+##<i class="fa fa-windows fa-5x"></i> &nbsp;&nbsp;Windows 1.4.17
 
-<div><a markdown="0" href="http://clamsight.com/static/releases/clam-1.4.13-win32.zip" target="_blank" class="btn">WINDOWS-32-ZIP</a>
+<div><a markdown="0" href="https://github.com/nochowderforyou/clams/releases/download/v1.4.17/clam-1.4.17-win32.zip" target="_blank" class="btn">WINDOWS-32</a>
 
-<a markdown="0" href="http://clamsight.com/static/releases/clam-1.4.13-win64.zip" target="_blank" class="btn">WINDOWS-64-ZIP</a></div>
-
-<div><a markdown="0" href="http://clamsight.com/static/releases/clam-1.4.13-win32-setup.exe" target="_blank" class="btn">WINDOWS-32-EXE</a>
-
-<a markdown="0" href="http://clamsight.com/static/releases/clam-1.4.13-win64-setup.exe" target="_blank" class="btn">WINDOWS-64-EXE</a></div>
+<a markdown="0" href="https://github.com/nochowderforyou/clams/releases/download/v1.4.17/clam-1.4.17-win64.zip" target="_blank" class="btn">WINDOWS-64</a></div>
 
 ---
 
-##<i class="fa fa-apple fa-5x"></i> &nbsp;&nbsp;Apple/OSX 1.4.13
+##<i class="fa fa-apple fa-5x"></i> &nbsp;&nbsp;Apple/OSX 1.4.17
 
-<a markdown="0" href="http://clamsight.com/static/releases/clam-1.4.13-osx-unsigned.dmg" target="_blank" class="btn">Mac-OSX</a>
+<a markdown="0" href="https://github.com/nochowderforyou/clams/releases/download/v1.4.17/clam-1.4.17-osx.dmg" target="_blank" class="btn">Mac-OSX</a>
 
 ---
 
-##<i class="fa fa-linux fa-5x"></i> &nbsp;&nbsp;Linux 1.4.13
+##<i class="fa fa-linux fa-5x"></i> &nbsp;&nbsp;Linux 1.4.17
 
-<div><a markdown="0" href="http://clamsight.com/static/releases/clam-1.4.13-linux64.tar.gz" target ="_blank" class="btn">LINUX-64</a>
+<div><a markdown="0" href="https://github.com/nochowderforyou/clams/releases/download/v1.4.17/clam-1.4.17-linux64.tar.gz" target ="_blank" class="btn">LINUX-64</a>
 
-<a markdown="0" href="http://clamsight.com/static/releases/clam-1.4.13-linux32.tar.gz" target ="_blank" class="btn">LINUX-32</a></div>
+<a markdown="0" href="https://github.com/nochowderforyou/clams/releases/download/v1.4.17/clam-1.4.17-linux32.tar.gz" target ="_blank" class="btn">LINUX-32</a></div>
 
 ---
 
@@ -63,7 +59,7 @@ CLAMS is free and open source software that has been deemed safe and secure by t
 
 <div><a markdown="0" href="https://github.com/nochowderforyou/clams" target="_blank" class="btn">SOURCE</a>
 
-<a markdown="0" href="https://github.com/nochowderforyou/clams/releases/tag/v1.4.13" target="_blank" class="btn">v1.4.13 RELEASE NOTES</a></div>
+<a markdown="0" href="https://github.com/nochowderforyou/clams/releases/tag/v1.4.17" target="_blank" class="btn">v1.4.17 RELEASE NOTES</a></div>
 
 ---
 
