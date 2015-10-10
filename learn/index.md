@@ -11,6 +11,12 @@ image:
 
 ---
 
+##[Constitution]({{ site.url }}/learn/constitution)
+
+The Draft CLAMs Constitution - enumerating foundational principles.
+
+---
+
 ##[Manifesto]({{ site.url }}/learn/manifesto)
 
 The CLAMs manifesto; inspired by "The Conscience of a Hacker."

@@ -81,6 +81,6 @@ I am a peer-to-peer currency, and this is my manifesto.  You may stop this indiv
 
 ---
 
-<div><a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
+<div><a markdown="0" href="{{ site.url }}/learn/constitution" class="btn">BACK: Constitution</a>
 
 <a markdown="0" href="{{ site.url }}/learn/distribution" class="btn">NEXT: Distribution</a></div>
