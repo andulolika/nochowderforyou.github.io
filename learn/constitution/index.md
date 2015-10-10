@@ -1,15 +1,13 @@
 ---
 layout: page
-title: The Conscience of a Peer-to-Peer Currency
+title: The CLAM Constitution
 modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "A manifesto written by the CLAM developers, inspired by The Conscience of a Hacker by +++The Mentor+++."
+excerpt: "The Draft CLAMs Constitution - enumerating foundational principles."
 image:
   feature: liberty.jpg
 ---
 
 {% include _toc.html %}
-
-#The CLAM Constitution
 
 ---
 
