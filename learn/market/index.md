@@ -35,12 +35,6 @@ Bringing 50 years of combined security and development experience to the trading
 
 ---
 
-[![Yacuna]({{ site.url }}/images/yacuna.jpg)](https://yacuna.com/?utm_source=bitcointalk.org&utm_medium=clam&utm_campaign=20%2F12%2F14%20bitcointalk%20releaseclam){:target="_blank"}
-
-CLAMs first fiat market! Trade CLAMs for Euros or BTC. Yacuna is a regulated exchange in the United Kingdom. Buy CLAMs by wire transfer without registration!
-
----
-
 [![Bluetrade]({{ site.url }}/images/bleutrade.png)](https://bleutrade.com/exchange/CLAM/){:target="_blank"}
 
 Bleutrade is a startup focused on becoming a leader in cryptocurrency exchange. Based in Porto Digital, Brazil, a technology hub known as the "Silicon Valley" of Latin America. 
